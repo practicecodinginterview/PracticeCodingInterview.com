@@ -26,5 +26,8 @@ public class TestTwoSum extends TestCase {
 
 		Assert.assertEquals(idx[0], firstIdx);
 		Assert.assertEquals(idx[1], secondIdx);
+
+		int result = ints[idx[0]] + ints[idx[1]];
+		Assert.assertEquals(target, result);
 	}
 }
