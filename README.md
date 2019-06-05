@@ -2,7 +2,7 @@
 
 ## Mock Interviews
 
-Get a 1 hour mock interview session with experienced engineers from top tech companies. At the end of each session, you'll get verbal and written feedback and the opportunity to ask questions. More information at [PracticeCodingInterview.com](https://www.practicecodinginterview.com?SQF_SOURCE=github)
+Get a 1 hour mock interview session with experienced engineers from top tech companies. At the end of each session, you'll get verbal and written feedback and the opportunity to ask questions. More information at [PracticeCodingInterview.com](https://www.practicecodinginterview.com/blog?SQF_SOURCE=github)
 
 ## Pre-Mock Interviews
 
