@@ -29,7 +29,19 @@ dependencies {
     implementation 'com.google.guava:guava:27.0.1-jre'
 
     // Use JUnit test framework
-    testImplementation 'junit:junit:4.12'
+    // Tests are collocated with solutions for readability and hence
+    // they are included in the implementation
+    implementation 'junit:junit:4.12'
+}
+
+// Override the default behavior of looking for tests in `src/test`
+// This is because tests and solutions need to be in the same physical location
+// for readability since this is a guide.
+sourceSets {
+    test {
+        java.srcDir file('src/main/java')
+        resources.srcDir file('src/main/resources')
+    }
 }
 
 task message(){
