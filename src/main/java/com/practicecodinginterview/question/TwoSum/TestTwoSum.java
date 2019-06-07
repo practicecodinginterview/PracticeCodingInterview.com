@@ -1,4 +1,4 @@
-package com.practicecodinginterview.leetcode.TwoSum;
+package com.practicecodinginterview.question.TwoSum;
 
 import org.junit.Assert;
 
