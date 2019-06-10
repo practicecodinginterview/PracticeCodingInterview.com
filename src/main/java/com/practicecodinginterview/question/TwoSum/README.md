@@ -1,6 +1,6 @@
 # Code Walkthrough - TwoSum
 
-Note: Cross posted from the Practice Coding Interview [blog](https://www.practicecodinginterview.com/blog)
+Note: Cross posted from the Practice Coding Interview [blog](https://www.practicecodinginterview.com/blog?SQF_SOURCE=github)
 
 # How To Use This Guide
 
