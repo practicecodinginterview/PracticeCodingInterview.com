@@ -12,8 +12,6 @@ Given an array of integers, return indices of the two numbers such that they add
 
 You may assume that each input would have exactly one solution, and you may not use the same element twice.
 
-[Solution on GitHub](https://github.com/practicecodinginterview/PracticeCodingInterview.com/blob/master/src/main/java/com/practicecodinginterview/leetcode/TwoSum/TwoSum.java)
-
 # Walkthrough
 The number one question on LeetCode has consistently been [TwoSum](https://leetcode.com/problems/two-sum/) over the past few years. Of the interviewers at PracticeCodingInterview.com, most have asked or been asked this question at many companies including LinkedIn and Google. Even though it’s a published and thoroughly practiced problem, it still comes up, and so it’s worth practicing.
 
@@ -87,4 +85,4 @@ So what’s happening here? We’re looping through the list and asking, “Have
 With this solution we’ve almost tripled the amount of memory needed, but we can compute the solution much faster.
 
 # Preparing For Interviews?
-Learn more about what to expect in coding interviews in our blog post, [The Coding Interview](http://www.practicecodinginterview.com/blog/2019/5/20/the-coding-interview). You’ll learn about the difference between phone and in-person interviews and strategies for both. Think you’re ready to start scheduling interviews with your dream company? [Schedule a mock interview](http://www.practicecodinginterview.com/schedule-an-interview) to practice with a real engineer from top tech companies to get comfortable solving problems in front of other people and feedback on your approach.
+Learn more about what to expect in coding interviews in our blog post, [The Coding Interview](http://www.practicecodinginterview.com/blog/2019/5/20/the-coding-interview?SQF_SOURCE=github). You’ll learn about the difference between phone and in-person interviews and strategies for both. Think you’re ready to start scheduling interviews with your dream company? [Schedule a mock interview](http://www.practicecodinginterview.com/schedule-an-interview?SQF_SOURCE=github) to practice with a real engineer from top tech companies to get comfortable solving problems in front of other people and feedback on your approach.

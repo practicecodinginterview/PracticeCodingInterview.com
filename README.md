@@ -30,13 +30,13 @@ open build/reports/tests/test/index.html
 
 # Exploring Solutions
 
-Every problem is self contained in it's own package under `src` including: solution code, test code, and a README about the problem. For an example, see the [`com.practicecodinginterview.leetcode.TwoSum`](https://github.com/practicecodinginterview/PracticeCodingInterview.com/tree/master/src/main/java/com/practicecodinginterview/leetcode/TwoSum) package.
+Every problem is self contained in it's own package under `src` including: solution code, test code, and a README about the problem. For an example, see the [`com.practicecodinginterview.question.TwoSum`](https://github.com/practicecodinginterview/PracticeCodingInterview.com/tree/master/src/main/java/com/practicecodinginterview/question/TwoSum) package.
 
 # Testing your own implementation
 
 If you're practicing problems for the first time it's helpful to see the code execute and pass tests. Every solution provided here includes at least a simple test case. All solutions exist in `src/main` and all tests in `src/test`.
 
-For example, you can review the solution for [TwoSum](https://github.com/practicecodinginterview/PracticeCodingInterview.com/blob/master/src/main/java/com/practicecodinginterview/leetcode/TwoSum/TwoSum.java) and see the [associated tests](https://github.com/practicecodinginterview/PracticeCodingInterview.com/blob/master/src/test/java/com/practicecodinginterview/leetcode/TwoSum/TestTwoSum.java). If you wanted to write your own TwoSum implementation you would do the following:
+For example, you can review the solution for [TwoSum](https://github.com/practicecodinginterview/PracticeCodingInterview.com/blob/master/src/main/java/com/practicecodinginterview/question/TwoSum/TwoSum.java) and see the [associated tests](https://github.com/practicecodinginterview/PracticeCodingInterview.com/blob/master/src/main/java/com/practicecodinginterview/question/TwoSum/TestTwoSum.java). If you wanted to write your own TwoSum implementation you would do the following:
 
 ## Run the pre-existing tests locally
 
