@@ -1,6 +1,6 @@
 # Code Walkthrough - ReverseWords
 
-Note: Cross posted from the Practice Coding Interview [blog](https://www.practicecodinginterview.com/blog)
+Note: Cross posted from the Practice Coding Interview [blog](https://www.practicecodinginterview.com/blog?SQF_SOURCE=github)
 
 # How To Use This Guide
 
@@ -91,4 +91,4 @@ Now that we know how to reverse a word or token, how do we reverse every token i
 Some of this should look familiar. Near the end of the method is our snippet for word level processing. There are three pointers here: a left and right for the token currently being processed (`lIdx` and `rIdx`) as well a pointer for how much of the string has been processed `sentenceIdx`. `sentenceIdx` starts at the beginning of the sentence and always points just ahead of the most recently seen token during processing. `lIdx` points at the beginning of the token and `rIdx` points at the end of the token at the beginning of token processing and follows our swapping algorithm. When I word has been reversed in the string, we use `sentenceIdx` to find the next word to process and repeat.
 
 # Preparing For Interviews?
-Learn more about what to expect in coding interviews in our blog post, [The Coding Interview](http://www.practicecodinginterview.com/blog/2019/5/20/the-coding-interview). You’ll learn about the difference between phone and in-person interviews and strategies for both. Think you’re ready to start scheduling interviews with your dream company? [Schedule a mock interview](http://www.practicecodinginterview.com/schedule-an-interview) to practice with a real engineer from top tech companies to get comfortable solving problems in front of other people and feedback on your approach.
+Learn more about what to expect in coding interviews in our blog post, [The Coding Interview](http://www.practicecodinginterview.com/blog/2019/5/20/the-coding-interview?SQF_SOURCE=github). You’ll learn about the difference between phone and in-person interviews and strategies for both. Think you’re ready to start scheduling interviews with your dream company? [Schedule a mock interview](http://www.practicecodinginterview.com/schedule-an-interview?SQF_SOURCE=github) to practice with a real engineer from top tech companies to get comfortable solving problems in front of other people and feedback on your approach.
