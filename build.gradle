@@ -53,6 +53,7 @@ task message(){
 }
 
 build.finalizedBy(message)
+test.finalizedBy(message)
 
 // Define the main class for the application
 mainClassName = 'practice.coding.interview.App'
